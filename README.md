@@ -28,8 +28,7 @@ text
 ![Ferrari](https://www.supercars.net/blog/wp-content/uploads/2022/02/Ferrari-SF90-Stradale-1.jpg)
 >>>>>>> f7dafb9 (bild tillagd)
 
-
-
+här är en `kod` 
 
 
 
