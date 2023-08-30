@@ -66,4 +66,9 @@ This is __bold__ text.
 - [ ] Saturn
 - [ ] Uranus
 - [ ] Neptune
+
 - [ ] Comet Haley
+
+
+x<sub>2</sub>
+x<sup>2</sup>
