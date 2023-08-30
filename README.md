@@ -21,10 +21,14 @@ text
 
 
 
-<<<<<<< HEAD
 =======
 > This is a blockquote
 # Example Section
 [Link to Example Section](#example-section)
+
+### Heading level 3
+#### Heading level 4
+##### Heading level 5
+####Heading level 6
 
 >>>>>>> d7bdb9b ( Creating Links Within Document)
