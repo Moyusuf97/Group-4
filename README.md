@@ -21,3 +21,10 @@ text
 
 
 
+<<<<<<< HEAD
+=======
+> This is a blockquote
+# Example Section
+[Link to Example Section](#example-section)
+
+>>>>>>> d7bdb9b ( Creating Links Within Document)
