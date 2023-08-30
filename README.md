@@ -13,6 +13,16 @@
 - Fourth item
 text
 
+1st way : * * *
+
+2nd way : ***
+
+3rd way : *****
+
+4th way : - - -
+
+5th way : ---------------------------------------
+
 
 
 
