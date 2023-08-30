@@ -1,4 +1,3 @@
-# Vi är grupp 4
 
 1. First item
 2. Second item
@@ -13,6 +12,7 @@
 - Fourth item
 text
 
+<<<<<<< HEAD
 1st way : * * *
 
 2nd way : ***
@@ -24,6 +24,9 @@ text
 5th way : ---------------------------------------
 
 
+![Ferrari](https://www.supercars.net/blog/wp-content/uploads/2022/02/Ferrari-SF90-Stradale-1.jpg)
+>>>>>>> f7dafb9 (bild tillagd)
+>>>>>>> refs/remotes/origin/main
 
 
 
@@ -31,3 +34,22 @@ text
 
 
 
+
+> This is a blockquote
+# Example Section
+[Link to Example Section](#example-section)
+
+### Heading level 3
+#### Heading level 4
+##### Heading level 5
+###### Heading level 6
+
+- [ ] Mercury
+- [x] Venus
+- [x] Earth (Orbit/Moon)
+- [x] Mars
+- [ ] Jupiter
+- [ ] Saturn
+- [ ] Uranus
+- [ ] Neptune
+- [ ] Comet Haley
