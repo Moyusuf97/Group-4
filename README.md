@@ -21,7 +21,6 @@ text
 
 
 
-=======
 > This is a blockquote
 # Example Section
 [Link to Example Section](#example-section)
@@ -31,4 +30,3 @@ text
 ##### Heading level 5
 ####Heading level 6
 
->>>>>>> d7bdb9b ( Creating Links Within Document)
