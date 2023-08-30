@@ -28,6 +28,8 @@ text
 
 =======
 >>>>>>> 24d6352 (ädringar)
+
+
 > This is a blockquote
 # Example Section
 [Link to Example Section](#example-section)
@@ -37,6 +39,10 @@ This is _italic_ text.
 
 This is **bold** text.
 This is __bold__ text.
+
+
+
+
 
 
 ### Heading level 3
