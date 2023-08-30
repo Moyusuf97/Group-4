@@ -71,3 +71,7 @@ This is __bold__ text.
 
 x<sub>2</sub>
 x<sup>2</sup>
+
+
+Markdown  
+: Markdown is a plaintext language, which is simple and easy to learn.  
