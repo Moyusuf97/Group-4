@@ -13,6 +13,10 @@
 - Fourth item
 text
 
+<<<<<<< HEAD
+=======
+![Ferrari](https://www.supercars.net/blog/wp-content/uploads/2022/02/Ferrari-SF90-Stradale-1.jpg)
+>>>>>>> f7dafb9 (bild tillagd)
 
 
 
