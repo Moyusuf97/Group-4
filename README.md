@@ -12,7 +12,7 @@
 - Fourth item
 text
 
-
+[^1]: My reference.
 1st way : * * *
 
 2nd way : ***
