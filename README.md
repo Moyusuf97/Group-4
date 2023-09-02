@@ -23,7 +23,8 @@ text
 
 5th way : ---------------------------------------
 
-
+[^1]: Footnote content
+[^2]: Footnote 2
 
 ![Ferrari](https://www.supercars.net/blog/wp-content/uploads/2022/02/Ferrari-SF90-Stradale-1.jpg)
 >>>>>>> f7dafb9 (bild tillagd)
