@@ -30,7 +30,7 @@ text
 
 här är en `kod` 
 
-
+[Ford Focus](https://sv.m.wikipedia.org/wiki/Fil:Ford_Focus.jpg)
 
 
 
