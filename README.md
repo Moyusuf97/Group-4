@@ -1,13 +1,9 @@
-
+i
 2. Second item
 3. Third item
-<<<<<<< HEAD
 4. Fourth item
 5. fifth item
 
-=======
-hello world
->>>>>>> refs/remotes/origin/main
 - First item
 - Second item
 - Third item
