@@ -30,7 +30,7 @@ text
 
 här är en `kod` 
 
-[Link text Here](https://sv.m.wikipedia.org/wiki/Fil:Ford_Focus.jpg)
+[Ford Focus](https://sv.m.wikipedia.org/wiki/Fil:Ford_Focus.jpg)
 
 
 
